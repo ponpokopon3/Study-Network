@@ -1,0 +1,54 @@
+﻿//環境属性
+:lang:              ja
+:experimental:
+
+//文書属性
+:title:             Title
+:doctype:           book
+:doctitle:          Doctitle
+:nofooter:
+
+//著者属性
+:author:            author
+
+//改訂情報属性
+:revdate:           Jan 1, 2021
+:revnumber:         1.0.0
+:revremark:         First Version
+:version-label!:
+
+//ラベル属性
+:toc-title:         目次
+:preface-title:     まえがき
+:manname-title:     マニュアル
+:untitled-label:    無題
+:version-label:     バージョン
+:last-update-label: 最終更新
+:tip-caption:       ヒント
+:important-caption: 重要
+:note-caption:      注記
+:caution-caption:   注意
+:warning-caption:   警告
+:figure-caption!:
+:table-caption!:
+:example-caption!:
+
+// 見出し属性
+:sectanchors:       
+:sectlinks:         
+:sectnums:
+:sectnumlevels:     5
+
+// 目次属性
+:toc:               left
+:toclevels:         3
+:chapter:           0
+
+<<<
+include::glossary.adoc[]
+
+<<<
+[index]
+== 索引
+
+

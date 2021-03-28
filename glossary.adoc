@@ -1,0 +1,94 @@
+﻿== ネットワーク用語
+:chapter: {counter:chapter}
+
+*((親会社))* ::
+[horizontal]
+略称::: -
+別名::: -
+定義::: 株式会社を子会社とする会社その他の当該株式会社の経営を支配している法人として法務省令で定めるものをいう。
+[horizontal!]
+
+*子会社* ::
+[horizontal]
+略称::: -
+別名::: -
+定義::: 会社がその総株主の議決権の過半数を有する株式会社その他の当該会社がその経営を支配している法人として法務省令で定めるものをいう。
+[horizontal!]
+
+
+*株式* ::
+[horizontal]
+    略称::: aaa
+    別名::: bbb
+    定義::: aaa
+[horizontal!]
+
+*REIT* ::
+[horizontal]
+    略称::: aaa
+    別名::: bbb
+    定義::: ccc
+[horizontal!]
+
+*日本証券業協会* ::
+[horizontal]
+    略称::: aaa
+    別名::: bbb
+    定義::: ccc
+[horizontal!]
+
+*店頭売買有価証券* ::
+[horizontal]
+    略称::: aaa
+    別名::: bbb
+    定義::: ccc
+[horizontal!]
+
+*取扱有価証券* ::
+[horizontal]
+    略称::: aaa
+    別名::: bbb
+    定義::: ccc
+[horizontal!]
+
+*株券* ::
+[horizontal]
+    略称::: aaa
+    別名::: bbb
+    定義::: ccc
+[horizontal!]
+
+*新株予約権証券* ::
+[horizontal]
+    略称::: aaa
+    別名::: bbb
+    定義::: ccc
+[horizontal!]
+
+*新投資口予約権証券* ::
+[horizontal]
+    略称::: aaa
+    別名::: bbb
+    定義::: ccc
+[horizontal!]
+
+*社債券* ::
+[horizontal]
+    略称::: aaa
+    別名::: bbb
+    定義::: ccc
+[horizontal!]
+
+*優先出資証券* ::
+[horizontal]
+    略称::: aaa
+    別名::: bbb
+    定義::: ccc
+[horizontal!]
+
+*売買* ::
+[horizontal]
+    略称::: aaa
+    別名::: bbb
+    定義::: ccc
+[horizontal!]
