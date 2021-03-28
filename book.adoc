@@ -45,10 +45,14 @@
 :chapter:           0
 
 <<<
+include::point.adoc[]
+
+<<<
 include::glossary.adoc[]
 
 <<<
 [index]
-== 索引
+== 索引\+
+.
 
 
